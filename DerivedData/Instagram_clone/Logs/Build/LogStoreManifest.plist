@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>11831E4D-7A93-4317-9F93-8090B3B18BCD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11831E4D-7A93-4317-9F93-8090B3B18BCD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram_clone</string>
+			<key>timeStartedRecording</key>
+			<real>630152896.34709597</real>
+			<key>timeStoppedRecording</key>
+			<real>630152899.30142701</real>
+			<key>title</key>
+			<string>Build Instagram_clone</string>
+			<key>uniqueIdentifier</key>
+			<string>11831E4D-7A93-4317-9F93-8090B3B18BCD</string>
+		</dict>
+		<key>1CE26889-D758-4CE2-AFA7-1589048DCCDC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CE26889-D758-4CE2-AFA7-1589048DCCDC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram_clone</string>
+			<key>timeStartedRecording</key>
+			<real>630153180.55001903</real>
+			<key>timeStoppedRecording</key>
+			<real>630153180.88965702</real>
+			<key>title</key>
+			<string>Build Instagram_clone</string>
+			<key>uniqueIdentifier</key>
+			<string>1CE26889-D758-4CE2-AFA7-1589048DCCDC</string>
+		</dict>
+		<key>24509D09-E509-4EDB-8B36-9B320A49C43D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24509D09-E509-4EDB-8B36-9B320A49C43D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram_clone</string>
+			<key>timeStartedRecording</key>
+			<real>630153154.31467998</real>
+			<key>timeStoppedRecording</key>
+			<real>630153154.63230503</real>
+			<key>title</key>
+			<string>Build Instagram_clone</string>
+			<key>uniqueIdentifier</key>
+			<string>24509D09-E509-4EDB-8B36-9B320A49C43D</string>
+		</dict>
+		<key>653C5EE0-ADDD-461B-ABB0-F920C62FCA37</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>653C5EE0-ADDD-461B-ABB0-F920C62FCA37.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram_clone</string>
+			<key>timeStartedRecording</key>
+			<real>630153123.79948699</real>
+			<key>timeStoppedRecording</key>
+			<real>630153127.61004901</real>
+			<key>title</key>
+			<string>Build Instagram_clone</string>
+			<key>uniqueIdentifier</key>
+			<string>653C5EE0-ADDD-461B-ABB0-F920C62FCA37</string>
+		</dict>
+		<key>ADA74EF9-7577-4123-912D-B3E9597D69DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADA74EF9-7577-4123-912D-B3E9597D69DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram_clone</string>
+			<key>timeStartedRecording</key>
+			<real>630153192.52769494</real>
+			<key>timeStoppedRecording</key>
+			<real>630153192.98201394</real>
+			<key>title</key>
+			<string>Build Instagram_clone</string>
+			<key>uniqueIdentifier</key>
+			<string>ADA74EF9-7577-4123-912D-B3E9597D69DB</string>
+		</dict>
+		<key>FD4BD3F7-3F4E-47A4-B979-5F06D050C44F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD4BD3F7-3F4E-47A4-B979-5F06D050C44F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_clone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_clone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Instagram_clone</string>
+			<key>timeStartedRecording</key>
+			<real>630153357.46822095</real>
+			<key>timeStoppedRecording</key>
+			<real>630153361.74207401</real>
+			<key>title</key>
+			<string>Build Instagram_clone</string>
+			<key>uniqueIdentifier</key>
+			<string>FD4BD3F7-3F4E-47A4-B979-5F06D050C44F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "b78218382874c6ed485ebfb4f40d557f"
+build_time: [1608460557, 873329000]
+inputs:
+  "/Users/ayodejiayankola/Desktop/Interview/Instagram_clone/Instagram_clone/ViewController.swift": [1608460557, 430162205]
+  "/Users/ayodejiayankola/Desktop/Interview/Instagram_clone/Instagram_clone/AppDelegate.swift": [1608410271, 4634679]
+  "/Users/ayodejiayankola/Desktop/Interview/Instagram_clone/Instagram_clone/SceneDelegate.swift": [1608410271, 7871015]
